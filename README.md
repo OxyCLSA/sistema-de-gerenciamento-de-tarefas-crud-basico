@@ -1,5 +1,3 @@
-## README.md do Projeto: Sistema de Gerenciamento de Tarefas (CRUD Básico)
-
 # Sistema de Gerenciamento de Tarefas (CRUD Básico)
 
 Este projeto é um sistema básico de gerenciamento de tarefas, desenvolvido com **Spring Boot** e **PostgreSQL**. Ele permite criar, ler, atualizar e deletar tarefas (CRUD) por meio de uma API REST.
